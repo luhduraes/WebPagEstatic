@@ -1,2 +1,2 @@
-# WebPagEstatic
+# WebPageEstatic
 Modelo de Portfólio Estático
